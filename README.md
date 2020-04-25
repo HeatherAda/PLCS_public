@@ -5,9 +5,6 @@ This repository contains a reference implementation of our proposed selective sa
 # Setup
 Python 2.7
 
-# Data description
-The weak oracles are generated based on transferred classifiers trained on other buildings, the raw sensor data and preprocessing code are in /data and /preprocess respectively.
-
 # Running the program
 To run the program:
 ```sh
